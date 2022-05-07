@@ -1,0 +1,48 @@
+img {
+    display: block;
+    margin: auto;
+}
+
+.conteiner {
+    background-color:lightgrey;
+    height: 100px;
+    text-align: center;
+}
+
+.deneme {
+    width: 400px;
+    margin-bottom: 4px;
+    margin-top: -40px;
+}
+
+.genel {
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.one {
+    height: 100px;
+    width: 650px;
+    background-color: lightseagreen;
+}
+
+.two {
+    width: 420px;
+    margin-left: 4px;
+    margin-right: 4px;
+    background-color: lightseagreen;
+    height: 100px;
+
+}
+
+.three {
+    width: 825px;
+    background-color: lightseagreen;
+    height: 100px;
+}
+
+.mail {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
